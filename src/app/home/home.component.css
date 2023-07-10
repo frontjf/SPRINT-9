@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+.text-roboto{
+  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-montserrat {
+
+  font-family: 'Lora', serif;
+  font-family: 'Montserrat', sans-serif;
+}
