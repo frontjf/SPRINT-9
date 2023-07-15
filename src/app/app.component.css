@@ -18,3 +18,9 @@ html, body {
   .content {
     min-height: calc(100% - (footer height + padding));
   }
+
+  .text-montserrat {
+
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+  }
